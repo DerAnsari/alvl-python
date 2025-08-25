@@ -1,0 +1,17 @@
++
+-
+*
+/
+>
+<
+>=
+<=
+= ---> assigned
+== --> equals to
+** --> exponent 
+and
+or
+not
+// --> div
+% --> mod
+!= --> not equals to 
